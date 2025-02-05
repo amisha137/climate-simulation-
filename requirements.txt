@@ -1,0 +1,9 @@
+streamlit
+pandas
+networkx
+matplotlib
+random
+plotly
+folium
+numpy
+streamlit_folium
