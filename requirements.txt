@@ -1,9 +1,8 @@
-streamlit
-pandas
-networkx
-matplotlib
-random
-plotly
-folium
-numpy
-streamlit_folium
+streamlit==1.26.0
+pandas==1.5.3
+networkx==3.1
+matplotlib==3.7.1
+plotly==5.9.0
+folium==0.14.0
+numpy==1.23.5
+streamlit-folium==0.11.0
